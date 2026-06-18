@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Inclusion in Sports & Education</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f8ff;
+    color: #222;
+}
+
+header {
+    background: linear-gradient(90deg, #1e6091, #52b69a);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px;
+}
+
+h2 {
+    color: #1e6091;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.stat {
+    background: #e8f6ff;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+a {
+    color: #1e6091;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1e6091;
+    color: white;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Inclusion in Sports & Education</h1>
+    <p>Building confidence, belonging, and equal access for all students</p>
+</header>
+
+<section>
+
+<h2>Overview: Inclusion in Sports</h2>
+<div class="card">
+Inclusive access to sports and recreation ensures that all children—regardless of ability, background, or identity—can participate meaningfully in physical activity.
+It supports confidence, belonging, and social connection in schools while reducing barriers such as unequal participation opportunities, bullying, and exclusion during physical education.
+</div>
+
+<div class="card">
+Key challenges include:
+<ul>
+<li>Unequal participation opportunities in school sports</li>
+<li>Bullying or exclusion during physical activities</li>
+<li>Accessibility barriers for students with different abilities</li>
+<li>Lack of representation or cultural inclusion in activities</li>
+</ul>
+</div>
+
+</section>
+
+<section>
+
+<h2>Historical Background</h2>
+
+<div class="card">
+Sports and school physical education have evolved alongside Canada’s growing cultural diversity.
+Canada became officially multicultural in 1971, when the government introduced the <b>Multiculturalism Policy</b>, encouraging inclusion and equal opportunity for people from different cultural backgrounds.
+</div>
+
+<div class="card">
+As Canada became one of the most multicultural countries in the world, schools increasingly reflected diverse cultures, languages, and identities.
+School events such as Sports Day help build community connections and encourage students of all backgrounds to participate together.
+</div>
+
+<div class="card">
+More context on Sports Day history:
+<br>
+<a href="https://boldbeautifulbiathlon.com/the-history-and-significance-of-sports-day/" target="_blank">
+Sports Day History & Significance
+</a>
+</div>
+
+</section>
+
+<section>
+
+<h2>Current Statistics & Data</h2>
+
+<div class="stats">
+
+<div class="stat">
+Only <b>39%</b> of children and youth (5–17) in Canada meet the recommended 60 minutes of daily moderate-to-vigorous physical activity.
+<br><br>
+Source: ParticipACTION 2024 Report Card
+</div>
+
+<div class="stat">
+Physical activity and school sports improve psychological wellbeing, confidence, and social skills among students.
+<br><br>
+Source: MDPI Public Health Research
+</div>
+
+</div>
+
+<div class="card">
+More data:
+<ul>
+<li><a href="https://www.statcan.gc.ca/o1/en/plus/4863-diving-data-sports-participation-canada" target="_blank">Statistics Canada – Sports Participation</a></li>
+<li><a href="https://www.statcan.gc.ca/o1/en/plus/8260-canadian-data-snapshot-through-multicultural-lens" target="_blank">Statistics Canada – Multicultural Lens</a></li>
+<li><a href="https://www.mdpi.com/1660-4601/18/3/864" target="_blank">MDPI Research Article</a></li>
+</ul>
+</div>
+
+</section>
+
+<section>
+
+<h2>Key Organizations Involved</h2>
+
+<div class="card">
+<ul>
+<li>Schools and student leadership groups</li>
+<li>Community recreation and youth programs</li>
+<li>UNESCO (global education and sport inclusion initiatives)</li>
+</ul>
+</div>
+
+</section>
+
+<section>
+
+<h2>Influential Figures & Movements</h2>
+
+<div class="card">
+Sports inclusion has been shaped by global and national movements promoting equality and access in education and physical activity.
+</div>
+
+<div class="card">
+Important influences include:
+<ul>
+<li>Canada’s multiculturalism policy (1971) promoting diversity and inclusion</li>
+<li>School inclusion and anti-discrimination movements</li>
+<li>UNESCO International Charter on Physical Education and Sport</li>
+</ul>
+</div>
+
+<div class="card">
+References:
+<ul>
+<li><a href="https://thecanadianencyclopedia.ca/en/timeline/sports" target="_blank">Canadian Encyclopedia – Sports Timeline</a></li>
+<li><a href="https://www.unesco.org/en/legal-affairs/international-charter-physical-education-physical-activity-and-sport" target="_blank">UNESCO International Charter</a></li>
+</ul>
+</div>
+
+</section>
+
+<footer>
+Inclusion in Sports & Education – Promoting access, confidence, and belonging
+</footer>
+
+</body>
+</html>
